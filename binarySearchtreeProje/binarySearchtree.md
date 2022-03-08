@@ -2,4 +2,4 @@
 
 # Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-![banner](https://github.com/burakk28/patika-veriyapilari/blob/main/merge.png)
+![banner](https://github.com/burakk28/patika-veriyapilari/blob/main/binarySearchtreeProje/binaryTree.png)
