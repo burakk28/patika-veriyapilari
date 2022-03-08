@@ -1,0 +1,2 @@
+# patika-veriyapilari
+Patika Projeleri
